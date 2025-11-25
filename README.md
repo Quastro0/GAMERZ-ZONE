@@ -9,10 +9,10 @@
 <br>
 <p align="center">
   <a href="https://github.com/Quastro0/GAMERZ-ZONE/stargazers">
-    <img src="https://img.shields.io/github/stars/Quastro0/GAMERZ-ZONE?style=social" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/Quastro0/GAMERZ-ZONE-Website?style=social" alt="GitHub stars" />
   </a>
   <a href="https://github.com/Quastro0/GAMERZ-ZONE/network/members">
-    <img src="https://img.shields.io/github/forks/Quastro0/GAMERZ-ZONE?style=social" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/forks/Quastro0/GAMERZ-ZONE-Website?style=social" alt="GitHub forks" />
   </a>
   <a href="https://github.com/Quastro0?tab=followers">
     <img src="https://img.shields.io/github/followers/Quastro0?style=social" alt="GitHub followers" />
