@@ -49,6 +49,11 @@
 
 </p>
 
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT" />
+  </a>
+</p>
 
 ---
 
@@ -183,6 +188,8 @@ Temporary logs
 ---
 
 ## 📄 License
-This project is provided for educational purposes. Add an `LICENSE` (MIT / Apache 2.0) if you want to allow reuse.
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
 
 
